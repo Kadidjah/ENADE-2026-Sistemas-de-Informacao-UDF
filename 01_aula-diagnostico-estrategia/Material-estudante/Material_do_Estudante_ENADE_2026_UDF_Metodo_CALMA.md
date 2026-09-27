@@ -1,6 +1,6 @@
-# Material do Estudante --- Preparatório ENADE 2026
+# Material do Estudante _ Preparatório ENADE 2026
 
-**UDF --- Sistemas de Informação**\
+**UDF _ Sistemas de Informação**\
 **Método C.A.L.M.A.**\
 **Profª Kadidja Valéria**
 
@@ -30,24 +30,13 @@ O objetivo não é apenas chegar à alternativa correta, mas compreender
 
 Use o método antes de marcar uma alternativa.
 
-  -----------------------------------------------------------------------
-  Etapa                   Significado             Pergunta orientadora
-  ----------------------- ----------------------- -----------------------
-  **C**                   **Comando**             O que a questão
-                                                  solicita?
-
-  **A**                   **Assunto**             Qual conteúdo está
-                                                  sendo mobilizado?
-
-  **L**                   **Leitura**             Quais evidências são
-                                                  importantes?
-
-  **M**                   **Marcação**            Quais alternativas
-                                                  podem ser eliminadas?
-
-  **A**                   **Avaliação**           Minha escolha responde
-                                                  exatamente ao comando?
-  -----------------------------------------------------------------------
+| Etapa | Significado | Pergunta orientadora |
+|:---:|---|---|
+| **C** | **Comando** | O que a questão solicita? |
+| **A** | **Assunto** | Qual conteúdo está sendo mobilizado? |
+| **L** | **Leitura** | Quais evidências são importantes? |
+| **M** | **Marcação** | Quais alternativas podem ser eliminadas? |
+| **A** | **Avaliação** | Minha escolha responde exatamente ao comando? |
 
 > **Antes de marcar uma alternativa, faça o C.A.L.M.A.**
 
@@ -70,7 +59,7 @@ Durante as aulas:
 
 ------------------------------------------------------------------------
 
-# Aula 1 --- Diagnóstico e Estratégia de Prova
+# Aula 1 _ Diagnóstico e Estratégia de Prova
 
 ## Objetivos
 
@@ -84,7 +73,7 @@ Ao final deste encontro, você deverá ser capaz de:
 -   aplicar o Método C.A.L.M.A.;
 -   reconhecer suas principais dificuldades.
 
-## Conceitos essenciais
+## Conceitos 
 
 -   leitura estratégica;
 -   comando da questão;
@@ -113,13 +102,15 @@ Qual técnica está sendo utilizada?
 
 ## Aplicando o C.A.L.M.A.
 
-  Etapa                 Seu registro
-  --------------------- --------------
-  **C --- Comando**     
-  **A --- Assunto**     
-  **L --- Leitura**     
-  **M --- Marcação**    
-  **A --- Avaliação**   
+Registre sua análise antes de selecionar a alternativa.
+
+| Etapa | Seu registro |
+|:---|---|
+| **C — Comando** |  |
+| **A — Assunto** |  |
+| **L — Leitura** |  |
+| **M — Marcação** |  |
+| **A — Avaliação** |  |
 
 ## Pós-aula
 
@@ -142,7 +133,7 @@ Resolva **5 questões** e registre o motivo dos erros encontrados.
 
 ------------------------------------------------------------------------
 
-# Aula 2 --- Algoritmos, Estruturas de Dados e Engenharia de Software
+# Aula 2 _ Algoritmos, Estruturas de Dados e Engenharia de Software
 
 ## Objetivos
 
@@ -154,7 +145,7 @@ Ao final deste encontro, você deverá ser capaz de:
 -   relacionar requisitos, qualidade e testes a situações concretas;
 -   justificar tecnicamente a resposta escolhida.
 
-## Conceitos essenciais
+## Conceitos 
 
 ### Algoritmos e Estruturas de Dados
 
@@ -189,13 +180,15 @@ Qual estrutura de dados é mais adequada?
 
 ## Aplicando o C.A.L.M.A.
 
-  Etapa                 Seu registro
-  --------------------- --------------
-  **C --- Comando**     
-  **A --- Assunto**     
-  **L --- Leitura**     
-  **M --- Marcação**    
-  **A --- Avaliação**   
+Registre sua análise antes de selecionar a alternativa.
+
+| Etapa | Seu registro |
+|:---|---|
+| **C — Comando** |  |
+| **A — Assunto** |  |
+| **L — Leitura** |  |
+| **M — Marcação** |  |
+| **A — Avaliação** |  | 
 
 ## Desafio
 
@@ -223,7 +216,7 @@ Resolva **6 questões** e classifique os erros como:
 
 ------------------------------------------------------------------------
 
-# Aula 3 --- Banco de Dados, Sistemas de Informação, Ciência de Dados e IHC
+# Aula 3 _ Banco de Dados, Sistemas de Informação, Ciência de Dados e IHC
 
 ## Objetivos
 
@@ -235,7 +228,7 @@ Ao final deste encontro, você deverá ser capaz de:
 -   analisar situações relacionadas à usabilidade;
 -   diferenciar evidências de hipóteses.
 
-## Conceitos essenciais
+## Conceitos 
 
 ### Banco de Dados
 
@@ -282,13 +275,15 @@ Qual deve ser uma das primeiras ações?
 
 ## Aplicando o C.A.L.M.A.
 
-  Etapa                 Seu registro
-  --------------------- --------------
-  **C --- Comando**     
-  **A --- Assunto**     
-  **L --- Leitura**     
-  **M --- Marcação**    
-  **A --- Avaliação**   
+Registre sua análise antes de selecionar a alternativa.
+
+| Etapa | Seu registro |
+|:---|---|
+| **C — Comando** |  |
+| **A — Assunto** |  |
+| **L — Leitura** |  |
+| **M — Marcação** |  |
+| **A — Avaliação** |  | 
 
 ## Desafio
 
@@ -318,7 +313,7 @@ Ao analisar um indicador, diferencie:
 
 ------------------------------------------------------------------------
 
-# Aula 4 --- Arquitetura, Sistemas Operacionais, Redes e Segurança
+# Aula 4 _ Arquitetura, Sistemas Operacionais, Redes e Segurança
 
 ## Objetivos
 
@@ -330,7 +325,7 @@ Ao final deste encontro, você deverá ser capaz de:
 -   identificar ameaças e controles de segurança;
 -   relacionar problemas tecnológicos às decisões adequadas.
 
-## Conceitos essenciais
+## Conceitos 
 
 ### Arquitetura
 
@@ -383,7 +378,17 @@ Qual medida está diretamente relacionada a esse objetivo?
   **A --- Assunto**     
   **L --- Leitura**     
   **M --- Marcação**    
-  **A --- Avaliação**   
+  **A --- Avaliação**## Aplicando o C.A.L.M.A.
+
+Registre sua análise antes de selecionar a alternativa.
+
+| Etapa | Seu registro |
+|:---|---|
+| **C — Comando** |  |
+| **A — Assunto** |  |
+| **L — Leitura** |  |
+| **M — Marcação** |  |
+| **A — Avaliação** |  |   
 
 ## Desafio
 
@@ -408,7 +413,7 @@ Resolva **6 questões** e construa relações no formato:
 
 ------------------------------------------------------------------------
 
-# Aula 5 --- Governança, Projetos, IA e Revisão Final
+# Aula 5 _ Governança, Projetos, IA e Revisão Final
 
 ## Objetivos
 
@@ -422,7 +427,7 @@ Ao final deste encontro, você deverá ser capaz de:
 -   aplicar o C.A.L.M.A. de forma autônoma;
 -   definir prioridades para a revisão final.
 
-## Conceitos essenciais
+## Conceitos 
 
 ### Governança de TI
 
@@ -463,13 +468,15 @@ O cenário está mais diretamente relacionado a:
 
 ## Aplicando o C.A.L.M.A.
 
-  Etapa                 Seu registro
-  --------------------- --------------
-  **C --- Comando**     
-  **A --- Assunto**     
-  **L --- Leitura**     
-  **M --- Marcação**    
-  **A --- Avaliação**   
+Registre sua análise antes de selecionar a alternativa.
+
+| Etapa | Seu registro |
+|:---|---|
+| **C — Comando** |  |
+| **A — Assunto** |  |
+| **L — Leitura** |  |
+| **M — Marcação** |  |
+| **A — Avaliação** |  |
 
 ## Mini simulado
 
