@@ -1,7 +1,7 @@
-# Atividade --- Aula 1: Diagnóstico e Estratégia de Prova
+# Atividade _ Aula 1: Diagnóstico e Estratégia de Prova
 
-**Preparatório ENADE 2026 --- Sistemas de Informação**\
-**UDF --- Centro Universitário**\
+**Preparatório ENADE 2026 - Sistemas de Informação**\
+**UDF - Centro Universitário**\
 **Professora:** Profª Kadidja Valéria\
 **Modalidade:** Individual\
 **Tema:** Diagnóstico, interpretação de questões e Método C.A.L.M.A.
@@ -38,9 +38,9 @@ Para cada questão:
 
 ------------------------------------------------------------------------
 
-# Parte 1 --- Aquecimento
+# Parte 1 - Aquecimento
 
-## Questão 1 --- Estratégia de resolução
+## Questão 1 - Estratégia de resolução
 
 Você está diante de uma questão extensa do ENADE, composta por um texto
 contextualizador e quatro alternativas.
@@ -71,9 +71,9 @@ informações.
 
 ------------------------------------------------------------------------
 
-# Parte 2 --- Questões Diagnósticas
+# Parte 2 - Questões Diagnósticas
 
-## Questão 2 --- Algoritmos e Estruturas de Dados
+## Questão 2 - Algoritmos e Estruturas de Dados
 
 Um sistema de atendimento registra solicitações de usuários. As
 solicitações devem ser processadas **na mesma ordem em que foram
@@ -94,7 +94,7 @@ Qual estrutura de dados representa melhor essa necessidade?
 
 ------------------------------------------------------------------------
 
-## Questão 3 --- Engenharia de Software
+## Questão 3 - Engenharia de Software
 
 Durante o levantamento de requisitos de um sistema acadêmico, um
 stakeholder informa:
@@ -118,7 +118,7 @@ Essa declaração representa principalmente:
 
 ------------------------------------------------------------------------
 
-## Questão 4 --- Banco de Dados
+## Questão 4 - Banco de Dados
 
 Uma organização identificou registros duplicados, campos incompletos e
 diferentes formatos para representar a mesma informação em sua base de
@@ -160,7 +160,7 @@ Qual ação está mais diretamente relacionada a essa necessidade?
 
 ------------------------------------------------------------------------
 
-## Questão 6 --- Sistemas de Informação e Governança
+## Questão 6 - Sistemas de Informação e Governança
 
 A alta administração de uma organização define princípios para o uso da
 tecnologia, acompanha indicadores e verifica se os investimentos em TI
@@ -183,7 +183,7 @@ O cenário está mais diretamente relacionado a:
 
 ------------------------------------------------------------------------
 
-## Questão 7 --- IHC e Usabilidade
+## Questão 7 - IHC e Usabilidade
 
 Uma universidade deseja avaliar uma nova funcionalidade de seu sistema
 acadêmico. Para isso, estudantes são convidados a realizar uma tarefa
@@ -215,9 +215,9 @@ Essa atividade caracteriza principalmente:
 
 ------------------------------------------------------------------------
 
-# Parte 3 --- Análise das Alternativas
+# Parte 3 - Análise das Alternativas
 
-## Questão 8 --- Não basta encontrar a correta
+## Questão 8 - Não basta encontrar a correta
 
 Escolha **uma das questões anteriores**.
 
@@ -264,7 +264,7 @@ Marque a opção que melhor representa sua situação.
 
 ------------------------------------------------------------------------
 
-# Parte 5 --- Mapa Diagnóstico
+# Parte 5 - Mapa Diagnóstico
 
 Classifique sua percepção atual.
 
@@ -288,7 +288,7 @@ Classifique sua percepção atual.
 
 ------------------------------------------------------------------------
 
-# Parte 6 --- Reflexão Final
+# Parte 6 - Reflexão Final
 
 ### 1. Em quais duas áreas você encontrou maior dificuldade?
 
@@ -359,4 +359,4 @@ seguinte registro:
 ------------------------------------------------------------------------
 
 **Profª Kadidja Valéria**\
-**UDF --- Sistemas de Informação \| Preparatório ENADE 2026**
+**UDF - Sistemas de Informação \| Preparatório ENADE 2026**
