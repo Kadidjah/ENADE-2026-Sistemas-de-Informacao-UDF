@@ -11,7 +11,7 @@ Materiais de estudo e atividades do Preparatório ENADE 2026 — Sistemas de Inf
 
 ---
 
-## 📌 Sobre o repositório
+## Sobre o repositório
 
 Este repositório reúne os materiais utilizados no **Preparatório ENADE 2026**
 do curso de **Sistemas de Informação do UDF**.
