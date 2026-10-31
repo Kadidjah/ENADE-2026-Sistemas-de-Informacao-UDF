@@ -15,3 +15,12 @@
 ## Aula ao vivo.
 
 As questões são **autorais de treinamento**, não itens oficiais do ENADE.
+
+## Objetivos de aprendizagem
+1. Interpretar modelos relacionais, consultas e regras de integridade.
+2. Relacionar dados, informação, indicadores e decisões organizacionais.
+3. Ler tabelas e gráficos criticamente, distinguindo associação e causalidade.
+4. Reconhecer princípios de usabilidade e interação humano-computador.
+5. Resolver problemas integrando tecnologia, usuário e negócio.
+
+
